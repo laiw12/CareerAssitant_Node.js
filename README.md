@@ -1,6 +1,6 @@
 # CS411Group7
 
-To clone the repository do the following command:
+To clone the repository do the following command :
 
 $ git init
 
